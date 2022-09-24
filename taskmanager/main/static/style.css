@@ -1,0 +1,18 @@
+.box{
+    background: url("image/fon.png");
+    width: 200vh;
+    height: 110vh;
+    background-repeat: no-repeat center/80%;
+    background-size: cover;
+
+    box-shadow: inset 0px 0px 200px 10px rgba(0,0,0,0.3);
+
+
+    font-size: 16px;
+    font-weight: normal;
+    color: #FFFFFF;
+}
+
+.colours{
+    color: #29B6F6
+}
